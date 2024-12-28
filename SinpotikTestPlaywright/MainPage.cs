@@ -12,7 +12,6 @@ public class MainPage
     {
         _page = page;
         _searchField = page.Locator("#searchField");
-        _searchField = page.Locator("#searchField");
         _cityheader = page.Locator("h1.currentCity");
     }
 
